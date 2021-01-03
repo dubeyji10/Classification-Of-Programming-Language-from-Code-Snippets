@@ -1,0 +1,360 @@
+# 'bash': 
+ - Most correlated unigrams:
+. cat
+. awk
+. ls
+. bin
+. sed
+. grep
+. fi
+. sh
+. bash
+. echo 
+ - Most correlated bigrams:
+. exit fi
+. script sh
+. test sh
+. sh line
+. dev null
+. bash echo
+. echo echo
+. bin sh
+. awk print
+. bin bash
+___________________________________________________________
+# 'c': 
+ - Most correlated unigrams:
+. scanf
+. define
+. include
+. malloc
+. int
+. stdio
+. sizeof
+. struct
+. char
+. printf 
+ - Most correlated bigrams:
+. sizeof char
+. int printf
+. include stdlib
+. stdio int
+. typedef struct
+. main int
+. malloc sizeof
+. stdio include
+. int main
+. include stdio
+___________________________________________________________
+# 'c#': 
+ - Most correlated unigrams:
+. controls
+. private
+. assembly
+. using
+. typeof
+. eventargs
+. ienumerable
+. new
+. writeline
+. public 
+ - Most correlated bigrams:
+. select new
+. windows forms
+. new list
+. public string
+. public class
+. sender eventargs
+. private void
+. set public
+. object sender
+. console writeline
+___________________________________________________________
+# 'c++': 
+ - Most correlated unigrams:
+. typename
+. cpp
+. operator
+. push_back
+. vector
+. endl
+. boost
+. const
+. cout
+. std 
+ - Most correlated bigrams:
+. virtual void
+. class public
+. template class
+. namespace std
+. std cout
+. template typename
+. using namespace
+. include iostream
+. std vector
+. std string
+___________________________________________________________
+# 'haskell': 
+ - Most correlated unigrams:
+. bytestring
+. deriving
+. prelude
+. maybe
+. monad
+. cabal
+. putstrln
+. io
+. hs
+. xs 
+ - Most correlated bigrams:
+. integer integer
+. xs ys
+. import qualified
+. actual type
+. control monad
+. xs xs
+. cabal install
+. expected type
+. import control
+. import data
+___________________________________________________________
+# 'java': 
+ - Most correlated unigrams:
+. bean
+. private
+. hibernate
+. arraylist
+. ioexception
+. final
+. org
+. javax
+. public
+. java 
+ - Most correlated bigrams:
+. java lang
+. com sun
+. org apache
+. javax swing
+. java util
+. private string
+. public static
+. import java
+. public class
+. public void
+___________________________________________________________
+# 'javascript': 
+ - Most correlated unigrams:
+. click
+. onclick
+. var
+. getelementbyid
+. script
+. javascript
+. alert
+. div
+. document
+. function 
+ - Most correlated bigrams:
+. console log
+. ready function
+. document ready
+. function alert
+. function var
+. click function
+. type text
+. script type
+. text javascript
+. document getelementbyid
+___________________________________________________________
+# 'objective-c': 
+ - Most correlated unigrams:
+. yes
+. self
+. objectatindex
+. nsarray
+. retain
+. nsmutablearray
+. release
+. nslog
+. alloc
+. nsstring 
+ - Most correlated bigrams:
+. nsstring alloc
+. uiimage imagenamed
+. nsmutablearray alloc
+. animated yes
+. alloc initwithframe
+. id sender
+. nsstring stringwithformat
+. nonatomic retain
+. property nonatomic
+. alloc init
+___________________________________________________________
+# 'perl': 
+ - Most correlated unigrams:
+. fh
+. warnings
+. qw
+. strict
+. die
+. pl
+. print
+. sub
+. use
+. perl 
+ - Most correlated bigrams:
+. open fh
+. lib perl
+. pl line
+. usr bin
+. warnings use
+. strict use
+. use warnings
+. perl use
+. use strict
+. bin perl
+___________________________________________________________
+# 'php': 
+ - Most correlated unigrams:
+. isset
+. echo
+. preg_replace
+. _session
+. _get
+. _server
+. mysql_query
+. array
+. _post
+. php 
+ - Most correlated bigrams:
+. php class
+. row mysql_fetch_array
+. mysql_query select
+. curl_setopt ch
+. result mysql_query
+. function __construct
+. header content
+. index php
+. php echo
+. public function
+___________________________________________________________
+# 'python': 
+ - Most correlated unigrams:
+. wx
+. self
+. import
+. django
+. urllib
+. os
+. models
+. __init__
+. python
+. py 
+ - Most correlated bigrams:
+. models model
+. recent file
+. traceback recent
+. __init__ py
+. lib python
+. line module
+. os path
+. def __init__
+. __init__ self
+. py line
+___________________________________________________________
+# 'ruby': 
+ - Most correlated unigrams:
+. irb
+. rails
+. rake
+. gem
+. activerecord
+. require
+. gems
+. rb
+. puts
+. ruby 
+ - Most correlated bigrams:
+. undefined method
+. def self
+. def initialize
+. irb main
+. gem install
+. ruby lib
+. gems gems
+. ruby gems
+. lib ruby
+. activerecord base
+___________________________________________________________
+# 'scala': 
+ - Most correlated unigrams:
+. actor
+. list
+. sbt
+. case
+. implicit
+. extends
+. trait
+. def
+. scala
+. val 
+ - Most correlated bigrams:
+. scala val
+. val new
+. implicit def
+. import scala
+. string val
+. list list
+. scala collection
+. override def
+. match case
+. case class
+___________________________________________________________
+# 'sql': 
+ - Most correlated unigrams:
+. declare
+. id
+. group
+. order
+. col
+. join
+. dbo
+. varchar
+. table
+. select 
+ - Most correlated bigrams:
+. alter table
+. select distinct
+. left join
+. union select
+. col col
+. select id
+. create table
+. select table
+. select count
+. inner join
+___________________________________________________________
+# 'swift': 
+ - Most correlated unigrams:
+. cell
+. nil
+. override
+. viewdidload
+. tableview
+. self
+. anyobject
+. var
+. func
+. let 
+ - Most correlated bigrams:
+. viewdidload super
+. tableview tableview
+. func tableview
+. iboutlet weak
+. weak var
+. iboutlet var
+. func viewdidload
+. sender anyobject
+. ibaction func
+. override func
+___________________________________________________________
