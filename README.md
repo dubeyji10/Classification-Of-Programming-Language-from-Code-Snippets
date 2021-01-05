@@ -4,4 +4,6 @@
 
 ### Trying different Machine Learning Models like Multinomial Naive Bias , SGD Classifier
 
-### Creating Different Deeplearning models <br> stacking different layers with embedding layer
+### Creating Different Deeplearning models stacking different layers with embedding layer
+
+##### Confusion Matrix for Deep Learning Model <img src="https://i.ibb.co/wMFS9db/dl-model2-cnf2-USETHIS.png" alt="dl-model2-cnf2-USETHIS" border="0">
